@@ -1,0 +1,54 @@
+[
+    {
+      "id": "1",
+      "Location": "Capital Federal",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "$",
+        "amount": 1.980,
+        "decimals": 0
+      },
+      "picture": "",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "id": "2",
+      "Location": "Mendoza",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "$",
+        "amount": 1.980,
+        "decimals": 0
+      },
+      "picture": "",
+      "condition": "Nuevo",
+      "free_shipping": false
+    },
+    {
+      "id": "3",
+      "Location": "Capital Federal",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "$",
+        "amount": 1.980,
+        "decimals": 0
+      },
+      "picture": "",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "id": "4",
+      "Location": "Capital Federal",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "$",
+        "amount": 1.980,
+        "decimals": 0
+      },
+      "picture": "",
+      "condition": "Nuevo",
+      "free_shipping": false
+    }
+  ]

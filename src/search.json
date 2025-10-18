@@ -1,0 +1,61 @@
+{
+  "author": {
+    "name": "Kaleb",
+    "lastname": "Dalla"
+  },
+  "categories": ["Eletronica", "Ipod", "Reprodutores", "iPod touch", "32 GB"],
+  "items": [
+    {
+      "id": "01",
+      "Location": "Capital Federal",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "$",
+        "amount": 1.980,
+        "decimals": 0
+      },
+      "picture": "",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "id": "02",
+      "Location": "Mendoza",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "$",
+        "amount": 1.980,
+        "decimals": 0
+      },
+      "picture": "",
+      "condition": "Nuevo",
+      "free_shipping": false
+    },
+    {
+      "id": "03",
+      "Location": "Capital Federal",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "$",
+        "amount": 1.980,
+        "decimals": 0
+      },
+      "picture": "",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "id": "04",
+      "Location": "Capital Federal",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "$",
+        "amount": 1.980,
+        "decimals": 0
+      },
+      "picture": "",
+      "condition": "Nuevo",
+      "free_shipping": false
+    }
+  ]
+}
