@@ -2,9 +2,17 @@ const express = require('express')
 const app = express()
 const port = 3000
 const fs = require('fs')
+const cors = require('cors')
+
+const corsOptions = {
+    origin: 'http://localhost:4200', // Allow requests only from this origin
+    methods: ['GET'], // Allow specific HTTP methods
+};
+
+app.use(cors(corsOptions));
 
 app.get('/api/items', (req, res) => {
-  const searchTerm = req.query.search;
+  const searchTerm = req.query.q;
   console.log(searchTerm)
   fs.readFile('./src/search.json', 'utf-8', (error, json) => {
     if(error) {

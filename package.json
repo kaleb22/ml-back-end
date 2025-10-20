@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kaleb22/ml-back-end#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   },
   "devDependencies": {
