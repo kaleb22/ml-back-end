@@ -34,7 +34,11 @@ app.get("/api/items", (req, res) => {
       const filteredData = data.filter(el => el.tags.includes(searchTerm))
 
       if(filteredData.length === 0) {
-        return res.json({message: "not found"})
+        return res.json({
+          ...getAuthor(),
+        items: [],
+        categories: []
+        })
       }
 
       const response = {
