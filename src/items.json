@@ -1,0 +1,66 @@
+[
+    {
+      "tags": ["tel", "telefone", "celular", "iphone", "cel", "apple", "telefono"],
+      "category": "Eletrónica",
+      "sub_category": "Apple Iphone 5g",
+      "id": "1",
+      "Location": "Capital Federal",
+      "title": "Apple Iponhe Touch 5g 16 Negro",
+      "price": {
+        "currency": "USD",
+        "amount": 1980,
+        "decimals": 99
+      },
+      "picture": "https://http2.mlstatic.com/D_Q_NP_2X_618972-MLA95350791143_102025-V.webp",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "tags": ["tel", "telefone", "celular", "iphone", "cel", "apple", "telefono"],
+      "category": "Eletrónica",
+      "sub_category": "Apple Iphone 5g",
+      "id": "2",
+      "Location": "Mendoza",
+      "title": "Apple Ipod Touch 5g 15 Negro",
+      "price": {
+        "currency": "USD",
+        "amount": 1980,
+        "decimals": 0
+      },
+      "picture": "https://http2.mlstatic.com/D_Q_NP_2X_679668-MLA95373753547_102025-V.webp",
+      "condition": "Nuevo",
+      "free_shipping": false
+    },
+    {
+      "tags": ["tel", "telefone", "celular", "iphone", "cel", "apple", "telefono"],
+      "category": "Eletrónica",
+      "sub_category": "Apple Iphone",
+      "id": "3",
+      "Location": "Capital Federal",
+      "title": "Apple Phone Touch 16 Negro",
+      "price": {
+        "currency": "USD",
+        "amount": 1980,
+        "decimals": 10
+      },
+      "picture": "https://http2.mlstatic.com/D_Q_NP_2X_618972-MLA95350791143_102025-V.webp",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "tags": ["tel", "telefone", "celular", "iphone", "cel", "apple", "telefono"],
+      "category": "Eletrónica",
+      "sub_category": "Apple Iphone 5s",
+      "id": "4",
+      "Location": "Capital Federal",
+      "title": "Apple Iphone Touch 5s Branco",
+      "price": {
+        "currency": "BRL",
+        "amount": 7800,
+        "decimals": 98
+      },
+      "picture": "https://http2.mlstatic.com/D_Q_NP_2X_879625-MLB95378425489_102025-V.webp",
+      "condition": "Nuevo",
+      "free_shipping": false
+    }
+  ]

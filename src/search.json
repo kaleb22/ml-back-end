@@ -1,0 +1,61 @@
+{
+  "author": {
+    "name": "Kaleb",
+    "lastname": "Dalla"
+  },
+  "categories": ["Eletronica", "Ipod", "Reprodutores", "iPod touch", "32 GB"],
+  "items": [
+    {
+      "id": "1",
+      "Location": "Capital Federal",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "USD",
+        "amount": 1980,
+        "decimals": 0
+      },
+      "picture": "https://http2.mlstatic.com/D_Q_NP_2X_618972-MLA95350791143_102025-V.webp",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "id": "2",
+      "Location": "Mendoza",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "USD",
+        "amount": 1980,
+        "decimals": 0
+      },
+      "picture": "https://http2.mlstatic.com/D_Q_NP_2X_679668-MLA95373753547_102025-V.webp",
+      "condition": "Nuevo",
+      "free_shipping": false
+    },
+    {
+      "id": "3",
+      "Location": "Capital Federal",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "USD",
+        "amount": 1980,
+        "decimals": 0
+      },
+      "picture": "https://http2.mlstatic.com/D_Q_NP_2X_618972-MLA95350791143_102025-V.webp",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "id": "4",
+      "Location": "Capital Federal",
+      "title": "Apple Ipod Touch 5g 16 Negro Igual A Nuevo completo Unico!",
+      "price": {
+        "currency": "BRL",
+        "amount": 7800,
+        "decimals": 0
+      },
+      "picture": "https://http2.mlstatic.com/D_Q_NP_2X_879625-MLB95378425489_102025-V.webp",
+      "condition": "Nuevo",
+      "free_shipping": false
+    }
+  ]
+}

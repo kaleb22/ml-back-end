@@ -1,0 +1,27 @@
+{
+  "name": "ml-back-end",
+  "version": "1.0.0",
+  "description": "express api to connect to mercado libre apis",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleb22/ml-back-end.git"
+  },
+  "author": "Kaleb Dalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaleb22/ml-back-end/issues"
+  },
+  "homepage": "https://github.com/kaleb22/ml-back-end#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
